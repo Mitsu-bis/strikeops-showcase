@@ -13,7 +13,8 @@ It runs **fully local**: no cloud account, no telemetry, no third-party tracking
 for real engagements, red-team labs, and serious skills development alike.
 
 > This repository is a **project showcase** that accompanies a written article about the
-> tool. The application source is **not published here** — see
+> tool, and is part of **[Skyler M.'s security portfolio](https://github.com/Mitsu-bis/security-portfolio)**.
+> The application source is **not published here** — see
 > [About this repository](#-about-this-repository).
 
 ---
