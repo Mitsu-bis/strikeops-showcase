@@ -80,6 +80,20 @@ edge sharp between engagements, without ever getting in a working operator's way
 
 ---
 
+## 🧠 Inside the engine
+
+StrikeOps isn't a checklist — it keeps a **single live model of the engagement** and
+uses it to drive the work. It ranks the next move from everything known so far,
+pre-fills it for the real target, and enforces scope before anything runs. Capture a
+finding and the queue re-ranks itself around it; the methodology runs itself,
+**breadth before depth**, with the client report derived from the same model on the
+way out.
+
+**➜ [How the engine thinks](docs/the-engine.md)** — the live engagement model, the
+observe-orient-decide-act loop, phase discipline, and scope-gating, at a design level.
+
+---
+
 ## 🔒 Local-first and OPSEC-conscious by design
 
 - **Local only.** The server binds to localhost and is never exposed on the network.
